@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+}
+
+.container {
+  max-width: 600px;
+  padding: 20px;
+  width: 100%;
+}
+
+.form {
+  padding: 10px;
+}
+
+#generate {
+  width: 200px;
+  margin-top: 10px;
+}
+
